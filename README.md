@@ -183,3 +183,6 @@ MY_REQUIREMENTS = {
 | `clusterer.py` | `ResumeClusterer` | Cosine similarity + rapidfuzz keyword boost → domain label |
 | `requirements.py` | — | Pre-built HR requirement dicts (web, dl) |
 | `main.py` | — | CLI entry point + interactive mode |
+
+
+a git test from other device
